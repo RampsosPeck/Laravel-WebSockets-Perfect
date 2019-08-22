@@ -62,6 +62,11 @@
                                         {{ __('Forgot Your Password?') }}
                                     </a>
                                 @endif
+                                <p>
+                                    <a href="https://docs.beyondco.de/laravel-websockets/1.0/getting-started/introduction.html">Documentation</a>
+                                    <a href="https://github.com/beyondcode/laravel-websockets-demo">Documentation GIT</a>
+                                    <a href="https://github.com/RampsosPeck/Laravel-WebSockets-Perfect">Git Hub</a>
+                                </p>
                             </div>
                         </div>
                     </form>
